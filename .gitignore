@@ -1,0 +1,15 @@
+__pycache__/
+.idea/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+
+dataset/*
+!dataset/.gitkeep
+llm/*
+!llm/.gitkeep
+*_checkpoints/
+*.log
+*.partial
+*.tmp
